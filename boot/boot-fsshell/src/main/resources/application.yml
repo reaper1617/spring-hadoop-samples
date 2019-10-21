@@ -2,5 +2,6 @@ spring:
   main:
     show_banner: false
   hadoop:
-    fsUri: hdfs://localhost:8020
+    fsUri: hdfs://192.168.99.100:9000
 
+#    fsUri: hdfs://192.168.1.54:9874
